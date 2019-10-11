@@ -10,9 +10,9 @@
 
 | Notebook                       | Link | Solution |
 | ------------------------------ | ---- | -------- |
-| TensorFlow Dataset & tf.data   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |          |
-| Pet Classification with TF 2.0 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
-| Transformers with TF 2.0       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| TensorFlow Dataset & tf.data   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/tf_dataset_demo.ipynb) |          |
+| Pet Classification with TF 2.0 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/tf_pet_base.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/solutions/tf_pet_solution.ipynb) |
+| Transformers with TF 2.0       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/tf_transformer_base.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/solutions/tf_transformer_solution.ipynb) |
 
 ## Workshop Information
 
