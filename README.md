@@ -14,6 +14,12 @@
 | Pet Classification with TF 2.0 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/tf_pet_base.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/solutions/tf_pet_solution.ipynb) |
 | Transformers with TF 2.0       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/tf_transformer_base.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVAITC/pycon-sg19-tensorflow-tutorial/blob/master/solutions/tf_transformer_solution.ipynb) |
 
+For those running the notebooks on the workshop JupyterHub or on your own hardware, you can clone this repository.
+
+```shell
+git clone https://github.com/NVAITC/pycon-sg19-tensorflow-tutorial
+```
+
 ## Workshop Information
 
 **In-person @ PyCon SG 2019**
