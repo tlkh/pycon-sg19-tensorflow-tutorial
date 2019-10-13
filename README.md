@@ -2,7 +2,15 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NVAITC/pycon-sg19-tensorflow-tutorial.svg) ![GitHub](https://img.shields.io/github/license/NVAITC/pycon-sg19-tensorflow-tutorial.svg) ![](https://img.shields.io/github/repo-size/NVAITC/pycon-sg19-tensorflow-tutorial.svg)
 
-## Materials
+This workshop content covers:
+
+* a brief introduction to deep learning and TensorFlow 2.0
+* using `tf.data` and TensorFlow Datasets
+* XLA compiler and Automatic Mixed Precision (AMP)
+* speeding up CNN (ResNet-50) with XLA and AMP
+* speeding up Transformer (BERT) with XLA and AMP
+
+## Content
 
 **Slides** are in this [Google Drive folder](https://drive.google.com/open?id=1RR0UhnvJ3PHL4sGRe2du4_w66Kg9KNVr).
 
