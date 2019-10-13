@@ -10,6 +10,8 @@ This workshop content covers:
 * speeding up CNN (ResNet-50) with XLA and AMP
 * speeding up Transformer (BERT) with XLA and AMP
 
+For a quick guide to using Automatic Mixed Precision, check out this [TLDR](https://drive.google.com/open?id=1Nz2438DBQS591kHha2ENL7VBhmBaXQ_loQVi3rywRVU).
+
 ## Content
 
 **Slides** are in this [Google Drive folder](https://drive.google.com/open?id=1RR0UhnvJ3PHL4sGRe2du4_w66Kg9KNVr).
